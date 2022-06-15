@@ -268,53 +268,61 @@
   # git push --set-upstream origin unit-lab00
 
     
-  cp -r ~/Documents/git/a14/a_labs/unit-lab01/* ~/Documents/git/a14/a14_labs/
-  cd ~/Documents/git/a14/a14_labs/
-  git checkout -b unit-lab01
-  git add .
-  git commit -m "unit-lab01"
-  git push --set-upstream origin unit-lab01
+  # cp -r ~/Documents/git/a14/a_labs/unit-lab01/* ~/Documents/git/a14/a14_labs/
+  # cd ~/Documents/git/a14/a14_labs/
+  # git checkout -b unit-lab01
+  # git add .
+  # git commit -m "unit-lab01"
+  # git push --set-upstream origin unit-lab01
 
     
-  cp -r ~/Documents/git/a14/a_labs/unit-lab02/* ~/Documents/git/a14/a14_labs/
-  cd ~/Documents/git/a14/a14_labs/
-  git checkout -b unit-lab02
-  git add .
-  git commit -m "unit-lab02"
-  git push --set-upstream origin unit-lab02
+  # cp -r ~/Documents/git/a14/a_labs/unit-lab02/* ~/Documents/git/a14/a14_labs/
+  # cd ~/Documents/git/a14/a14_labs/
+  # git checkout -b unit-lab02
+  # git add .
+  # git commit -m "unit-lab02"
+  # git push --set-upstream origin unit-lab02
 
     
-  cp -r ~/Documents/git/a14/a_labs/unit-lab03/* ~/Documents/git/a14/a14_labs/
-  cd ~/Documents/git/a14/a14_labs/
-  git checkout -b unit-lab03
-  git add .
-  git commit -m "unit-lab03"
-  git push --set-upstream origin unit-lab03
+  # cp -r ~/Documents/git/a14/a_labs/unit-lab03/* ~/Documents/git/a14/a14_labs/
+  # cd ~/Documents/git/a14/a14_labs/
+  # git checkout -b unit-lab03
+  # git add .
+  # git commit -m "unit-lab03"
+  # git push --set-upstream origin unit-lab03
 
     
-  cp -r ~/Documents/git/a14/a_labs/unit-lab04/* ~/Documents/git/a14/a14_labs/
-  cd ~/Documents/git/a14/a14_labs/
-  git checkout -b unit-lab04
-  git add .
-  git commit -m "unit-lab04"
-  git push --set-upstream origin unit-lab04
+  # cp -r ~/Documents/git/a14/a_labs/unit-lab04/* ~/Documents/git/a14/a14_labs/
+  # cd ~/Documents/git/a14/a14_labs/
+  # git checkout -b unit-lab04
+  # git add .
+  # git commit -m "unit-lab04"
+  # git push --set-upstream origin unit-lab04
 
     
-  cp -r ~/Documents/git/a14/a_labs/unit-lab05/* ~/Documents/git/a14/a14_labs/
-  cd ~/Documents/git/a14/a14_labs/
-  git checkout -b unit-lab05
-  git add .
-  git commit -m "unit-lab05"
-  git push --set-upstream origin unit-lab05
+  # cp -r ~/Documents/git/a14/a_labs/unit-lab05/* ~/Documents/git/a14/a14_labs/
+  # cd ~/Documents/git/a14/a14_labs/
+  # git checkout -b unit-lab05
+  # git add .
+  # git commit -m "unit-lab05"
+  # git push --set-upstream origin unit-lab05
 
     
-  cp -r ~/Documents/git/a14/a_labs/unit-lab06/* ~/Documents/git/a14/a14_labs/
-  cd ~/Documents/git/a14/a14_labs/
-  git checkout -b unit-lab06
-  git add .
-  git commit -m "unit-lab06"
-  git push --set-upstream origin unit-lab06
+  # cp -r ~/Documents/git/a14/a_labs/unit-lab06/* ~/Documents/git/a14/a14_labs/
+  # cd ~/Documents/git/a14/a14_labs/
+  # git checkout -b unit-lab06
+  # git add .
+  # git commit -m "unit-lab06"
+  # git push --set-upstream origin unit-lab06
 
-    
+
+  git checkout lab31
+  cp -r ~/Documents/git/a14/a_labs/auth/* ~/Documents/git/a14/a14_labs/
+  cd ~/Documents/git/a14/a14_labs/
+  git checkout -b auth
+  git add .
+  git commit -m "auth"
+  git push --set-upstream origin auth
+
 cd ~/Documents/git/a14/a_labs/
   
