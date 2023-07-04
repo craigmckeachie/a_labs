@@ -17,3 +17,8 @@ lab21 add npm script
 unit-lab00= lab31+ comment out .spec files for card, detail-container, form, list, container
 lab32 npm i @ngrx/store @ngrx/store-devtools @ngrx/store/effects
 auth npm i jsonwebtoken @auth0/angular-jwt
+auth add npm script
+
+```
+ "api:auth": "node ./api/auth-api-server.js"
+```
